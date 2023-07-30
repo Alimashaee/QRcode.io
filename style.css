@@ -8,7 +8,7 @@ body {
 
 .container {
   width: 375px;
-  margin: auto auto;
+  margin: 100px auto;
   background-color: hsl(0, 0%, 100%);
   border-radius: 12px;
 }
